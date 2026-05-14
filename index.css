@@ -1,5 +1,6 @@
 
 .corpo{
+    margin: 180px;
     font-family: sans-serif;
     background: #fff;
     display: flex;
@@ -8,6 +9,13 @@
     align-items: center;
     }
 
-
+.caixa{
+    background-color: #cecece;
+    padding: 10px;
+    display: block;
+    gap: 10px;
+    border-radius: 10px;
+    
+}
 
 
